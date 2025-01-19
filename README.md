@@ -7,7 +7,7 @@ Breadth-first search
 The purpose of this assignment is to get you comfortable working with graph structures and to implement a breadth-first search function to traverse the graph and find the shortest path between nodes.
 
 # Breadth-First Search (BFS)
-Breadth First Search (BFS) is a graph search algorithm that traverses through a graph - one layer at a time. This method utilizes a queue data structure, which follows a First In First Out (FIFO) order. As such, BFS visits vertices in the graph in the order of each vertex's distance from the source.
+Breadth-First Search (BFS) is a graph search algorithm that traverses through a graph - one layer at a time. This method utilizes a queue data structure, which follows a First In First Out (FIFO) order. As such, BFS visits vertices in the graph in the order of each vertex's distance from the source.
 
 The bfs function generated within this assignment conducts the following, taking in a graph, start node, and optional end node:
 * If no end node is provided, returns a list of nodes in order of breadth-first search traversal from the given start node
