@@ -1,4 +1,4 @@
-![BuildStatus](https://github.com/christine-wan/HW2-BFS-CW/workflows/HW2-BFS/badge.svg?event=push)
+![BuildStatus](https://github.com/christine-wan/HW2-BFS-CW/workflows/HW2-BFS/badge.svg)
 
 # Assignment 2
 Breadth-first search
