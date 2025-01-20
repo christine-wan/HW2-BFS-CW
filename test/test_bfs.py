@@ -74,4 +74,5 @@ def test_bfs():
     # Testing that directionality matters
     # (there should be a path from Tony Capra to Jingjing Li, but not vice versa)
     assert citation.bfs('Tony Capra', 'Jingjing Li') is not None
+    assert citation.bfs('Jingjing Li', 'Tony Capra') is None
 
